@@ -1,0 +1,23 @@
+app.js - listen to the port and direst requests to the routing.js
+
+routing.js - direct URLs to its specific js file in controllers.
+    GET  /processorder
+        getTest
+        => used to 
+
+    POST /processorder
+        createOrder
+        => used to
+
+    GET  /inventory
+        getAllInventory
+        => used to
+
+    PUT /inventory
+        updataInventoryDB
+        => used to update the values in the database
+
+    GET  /inventory/single
+        getSingleItem
+        => used to
+

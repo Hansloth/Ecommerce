@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.shoplist {
+    width: 90vw;
+    max-width: 1570px;
+    margin: 1rem auto;
+    display: grid;
+    gap: 0.5rem;
+}
+.shop h1{
+    color: #282a2c;
+    margin: 1rem;
+    text-align: center;
+}
+@media screen and (min-width: 768px) {
+    .shoplist {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+.phone {
+    padding: 1rem 2rem;
+}
+.phone p {
+    margin-top: 0.5rem;
+    line-height: 1.4rem;
+}
+
+.card_img_container{
+    width: 286px;
+    height: 180px;
+}
+
+.cart_card_img_container {
+    width: 100px;
+    height: 70px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+.contact_us_container {
+    width: 30rem;
+    height: 20rem;
+    vertical-align: top;
+    display: inline-grid;
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.contact_us_card_img_container {
+    width: 8rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.contact_us_card_title_text {
+    position: relative;
+    margin: 0 auto;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact_info_text {
+    position: relative;
+    margin: 0 auto;
+    margin-top: 2rem;
+    text-align: center;
+}
+  .footer{
+    background-color: rgb(37, 34, 34);
+    color: #fff;
+  }
+ .footer a {
+     color: #fff !important;
+ }
+
+ .about {
+    min-height: 100vh;
+    width: 100vw;
+    padding: 100px 50px 50px 50px;
+    background: black;
+    color: rgba(255, 255, 255, 0.8);
+  }

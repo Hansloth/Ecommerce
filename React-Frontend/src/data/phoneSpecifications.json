@@ -1,0 +1,43 @@
+[
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Ultra",
+        "price": 1000,
+        "weight": 228,
+        "screen-size": 6.8,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/eQoitRsH3xroGKDEf2quRo-1200-80.jpg.webp"
+    },
+    {
+        "brand": "iPhone",
+        "model": "SE",
+        "price": 1000,
+        "weight": 144,
+        "screen-size": 4.7,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/AA8e5i8oMCtAPJqtKyHEk7-1200-80.jpg.webp"
+    },
+    {
+        "brand": "iPhone",
+        "model": "14 Pro",
+        "price": 1000,
+        "weight": 206,
+        "screen-size": 6.1,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/FfkqxL5M786ja2sEsPz4YM-1200-80.jpg.webp"
+    },
+    {
+        "brand": "iPhone",
+        "model": "13 Pro",
+        "price": 1000,
+        "weight": 204,
+        "screen-size": 6.1,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/unjUSvUGkFgqy8koyswpEH-1024-80.jpg.webp"
+    },
+    {
+        "brand": "Google",
+        "model": "Pixel 6",
+        "price": 1000,
+        "weight": 207, 
+        "screen-size": 6.4,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/EgKmM7UV7GyL2nPEnHQ7Pc-1200-80.jpg.webp"
+    }
+    
+]

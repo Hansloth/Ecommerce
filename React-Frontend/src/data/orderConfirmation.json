@@ -1,0 +1,92 @@
+[
+    {
+        "id": 43798,
+        "currency": "$",
+        "total": "2400.35",
+        "estimatedDeliveryDateMin": "October 2, 2022",
+        "estimatedDeliveryDateMax": "December 1, 2022",
+        "orderDate": "October 1, 2022",
+        "shipTo": "Bill Jobs",
+        "items":[
+            {
+                "brand": "Samsung",
+                "model": "Galaxy S22 Ultra",
+                "price": 1000,
+                "weight": 228,
+                "screen-size": 6.8,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/eQoitRsH3xroGKDEf2quRo-1200-80.jpg.webp"
+            },
+            {
+                "brand": "iPhone",
+                "model": "14 Pro",
+                "price": 1000,
+                "weight": 206,
+                "screen-size": 6.1,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/FfkqxL5M786ja2sEsPz4YM-1200-80.jpg.webp"
+            }
+        ]
+    },
+    {
+        "id": 43798,
+        "currency": "$",
+        "total": "1124.36",
+        "estimatedDeliveryDateMin": "October 2, 2022",
+        "estimatedDeliveryDateMax": "October 2, 2022",
+        "orderDate": "October 1, 2022",
+        "shipTo": "Bill Jobs",
+        "items":[
+            {
+                "brand": "Samsung",
+                "model": "Galaxy S22 Ultra",
+                "price": 1000,
+                "weight": 228,
+                "screen-size": 6.8,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/eQoitRsH3xroGKDEf2quRo-1200-80.jpg.webp"
+            }
+        ]
+    },    {
+        "id": 43798,
+        "currency": "$",
+        "total": "2456.12",
+        "estimatedDeliveryDateMin": "October 2, 2022",
+        "estimatedDeliveryDateMax": "December 1, 2022",
+        "orderDate": "October 1, 2022",
+        "shipTo": "Bill Jobs",
+        "items":[
+            {
+                "brand": "iPhone",
+                "model": "13 Pro",
+                "price": 1000,
+                "weight": 204,
+                "screen-size": 6.1,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/unjUSvUGkFgqy8koyswpEH-1024-80.jpg.webp"
+            },
+            {
+                "brand": "iPhone",
+                "model": "14 Pro",
+                "price": 1000,
+                "weight": 206,
+                "screen-size": 6.1,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/FfkqxL5M786ja2sEsPz4YM-1200-80.jpg.webp"
+            }
+        ]
+    },    {
+        "id": 43798,
+        "currency": "€",
+        "total": "1530.12",
+        "estimatedDeliveryDateMin": "November 2, 2022",
+        "estimatedDeliveryDateMax": "December 9, 2022",
+        "orderDate": "October 12, 2022",
+        "shipTo": "Bill Jobs",
+        "items":[
+            {
+                "brand": "Google",
+                "model": "Pixel 6",
+                "price": 1000,
+                "weight": 207, 
+                "screen-size": 6.4,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/EgKmM7UV7GyL2nPEnHQ7Pc-1200-80.jpg.webp"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Order": [{
+            "orderTotal":  "100",
+            "orderPlacedOn": "Columbus",
+            "estimatedDeliveryDateMax": "10-30-2022",
+            "estimatedDeliveryDateMin": "10-15-2022"
+        }],
+        "Items": [{
+            "itemIds":  [1, 2, 3],
+            "itemQty": [1, 2, 3]
+        }],
+        "shippingInfo": [{
+            "firstName": "Hans",
+            "lastName": "Yu",
+            "phoneNumber": "6141231234",
+            "address1": "abc E Ave",
+            "address2": "APT 01",
+            "city":"Columbus",
+            "state": "OH",
+            "zipCode":" 43201" 
+        }],
+        "paymentInfo": [{
+            "paymentFirstName": "Hans",
+            "paymentLastName": "Yu",
+            "paymentCardNum": "1234 4567 8910 2345",
+            "paymentCardCVC": "123",
+            "paymentCardYear": "2022",
+            "paymentCardMonth": "2"
+        }]
+    },
+
+    {
+        "Order": [{
+            "orderTotal":  "20",
+            "orderPlacedOn": "Seattle",
+            "estimatedDeliveryDateMax": "10-22-2022",
+            "estimatedDeliveryDateMin": "10-10-2022"
+        }],
+        "Items": [{
+            "itemIds":  [1, 2],
+            "itemQty": [2, 2]
+        }],
+        "shippingInfo": [{
+            "firstName": "Benny",
+            "lastName": "Naftili",
+            "phoneNumber": "6149876543",
+            "address1": "bac N Ave",
+            "address2": "APT 02",
+            "city":"Seattle",
+            "state": "WA",
+            "zipCode":" 12304" 
+        }],
+        "paymentInfo": [{
+            "paymentFirstName": "Benny",
+            "paymentLastName": "Naftili",
+            "paymentCardNum": "9876 6543 3210 9876",
+            "paymentCardCVC": "456",
+            "paymentCardYear": "2029",
+            "paymentCardMonth": "3"
+        }]
+    }
+]
+
+

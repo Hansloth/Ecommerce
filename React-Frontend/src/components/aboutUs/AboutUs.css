@@ -1,0 +1,22 @@
+div.item {
+    vertical-align: top;
+    display: inline-grid;
+    text-align: center;
+    width: 210px;
+    margin: 20px;
+}
+.aboutUs_img {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    padding: 5px;
+}
+.title_caption {
+    display: block;
+    font-weight: bold;
+    font-size: larger;
+}
+.name_caption {
+    display: block;
+}
+
